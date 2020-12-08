@@ -5,6 +5,7 @@ From "Inshort" website
 
 Web Scraping of Data : BeautifulSoup, Requests, Scrapy
 
+
 2)Preprocessing
 
 Dealing with Punctuation
@@ -16,6 +17,7 @@ Tokenization
 Stemming and Lemmatization
 
 Libraries : NLTK, Regex/SpaCy
+
 
 3)Approach to Sentiment Analysis
 
