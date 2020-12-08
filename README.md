@@ -11,7 +11,9 @@ Stemming and Lemmatization
 Libraries : NLTK, Regex/SpaCy
 
 3)Approach to Sentiment Analysis
+
 Lexicon Based Approach :
+
 TextBlob, Vader, Affinn
 
 
